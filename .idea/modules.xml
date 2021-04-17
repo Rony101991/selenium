@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2021QE/2021QE.iml" filepath="$PROJECT_DIR$/2021QE/2021QE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day5/Day5.iml" filepath="$PROJECT_DIR$/Day5/Day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Group discasion/Group discasion.iml" filepath="$PROJECT_DIR$/Group discasion/Group discasion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaClassDay4/JavaClassDay4.iml" filepath="$PROJECT_DIR$/JavaClassDay4/JavaClassDay4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mentoring1/Mentoring1.iml" filepath="$PROJECT_DIR$/Mentoring1/Mentoring1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mentoring2/Mentoring2.iml" filepath="$PROJECT_DIR$/Mentoring2/Mentoring2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MentoringPractice/MentoringPractice.iml" filepath="$PROJECT_DIR$/MentoringPractice/MentoringPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObjectCreation/ObjectCreation.iml" filepath="$PROJECT_DIR$/ObjectCreation/ObjectCreation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShiponBhai/ShiponBhai.iml" filepath="$PROJECT_DIR$/ShiponBhai/ShiponBhai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringCondition/StringCondition.iml" filepath="$PROJECT_DIR$/StringCondition/StringCondition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/all-project/all-project.iml" filepath="$PROJECT_DIR$/all-project/all-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day3/day3.iml" filepath="$PROJECT_DIR$/day3/day3.iml" />
+    </modules>
+  </component>
+</project>
