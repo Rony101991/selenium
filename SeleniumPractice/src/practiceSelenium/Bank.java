@@ -8,7 +8,7 @@ public class Bank {
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver","C://Users//alimu//IdeaProjects//SeleniumPractice//driver//chromedriver.exe");
         WebDriver driver =new ChromeDriver();
-       /* driver.get("https://citibank.com");
+        driver.get("https://citibank.com");
         //driver.findElement(By.xpath("//input[@type='text']")).sendKeys("xyz");
        // driver.findElement(By.xpath("//a[@role='button']")).click();
         Thread.sleep(5000);
@@ -18,12 +18,11 @@ public class Bank {
         driver.findElement(By.xpath("//input[@id='password']")).sendKeys("afmsk2135");
         driver.findElement(By.xpath("//button[@id='signInBtn']")).click();
         driver.findElement(By.xpath("//button[@id='forgotPwdLink']")).click();
-        driver.findElement(By.xpath("//input[@placeholder='ATM/Debit or Credit Card Number']")).click();*/
+        //driver.findElement(By.xpath("//input[@placeholder='ATM/Debit or Credit Card Number']")).click();
+        //driver.findElement(By.xpath("/html/body/div[1]/nav/a[1]/img")).click();
 
 
-        driver.get("https:bankofamerica.com/");
-        Thread.sleep(5000);
-        driver.findElement(By.xpath("//input[@id='enterID-input']")).sendKeys("alimur@yahoo.com");
+
 
 
 
